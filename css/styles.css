@@ -1,0 +1,119 @@
+body{
+  text-align: center;
+  margin: 0;
+  background-color: #EDF6E5;
+  font-family: 'Playfair Display', serif;
+}
+
+a{
+  color: #EEEEEE;
+  font-family: 'Playfair Display', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color:  #071A52;
+}
+
+.pro{
+  text-decoration: underline;
+  text-transform: lowercase;
+
+
+}
+
+h1{
+  margin: 0;
+  font-size: 40px;
+}
+hr{
+  border-style: dotted none none;
+  width: 30px;
+  height: 0;
+  border-width: thick;
+}
+
+
+.top-container{
+  background-color: #071A52;
+  color: #EEEEEE;
+  padding-top: 100px;
+
+}
+.middle-container{
+  font-size: 1.2em;
+  background-color: #EDF6E5;
+  margin:100px 0;
+
+}
+
+.bottom-container{
+  background-color: #17B978;
+  padding: 50px 0 20px;
+}
+
+.contact-me{
+  clear: right;
+  padding-top: 100px;
+}
+.skills{
+  margin-top:100px;
+
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.ai-img{
+  float: left;
+  width: 400px;
+  height: 300px;
+  margin-right: 50px;
+
+}
+
+.computer-img{
+  float: right;
+  margin-left: 50px;
+
+}
+
+#top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+
+}
+#bottom-cloud{
+  position: absolute;
+  bottom: 400px;
+  left:300px;
+}
+
+.btn{
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 30px;
+  color: #EEEEEE;
+  background-color: #17B978;
+
+}
+
+.btn:hover{
+  color: #EEEEEE;
+  background-color:  #071A52;
+}
+.copyright{
+  color: #EEEEEE;
+  padding: 20px 0;
+}
