@@ -33,7 +33,10 @@ hr{
   height: 0;
   border-width: thick;
 }
-
+.profile img{
+  width: 200px;
+  height: 200px;
+}
 
 .top-container{
   background-color: #071A52;
